@@ -22,6 +22,7 @@ const Cyneptic = {
     "Reading Books",
   },
   Discord_Id: "Cyneptic#8327",
+  Favorite_Language: "JavaScript",
 }
    
 ```
