@@ -59,7 +59,7 @@ const Cyneptic = {
    <code><a href="https://sass-lang.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="52" height="40"/> </a></code>
    <code><a href="https://tailwindcss.com/" > <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="52" height="40"/> </a></code>
    <code><a href="https://www.typescriptlang.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="52" height="40"/> </a></code>
-   <code><a href="https://fivem.net/"> <img src="./img/icons8-fivem-480.svg" width="52" height="40">
+   <code><a href="https://fivem.net/"> <img src="./img/icons8-fivem-480.svg" width="52" height="40"></code>
    
 </div>
 <br />
