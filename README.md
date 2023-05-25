@@ -16,6 +16,7 @@ const Cyneptic = {
   Age: 25,
   Work_Experience: "2.5 Years",
   Hobbies: {
+    "Coding",
     "Gaming",
     "Listening to music",
     "Summoning a demon",
