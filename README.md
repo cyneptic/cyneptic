@@ -1,5 +1,4 @@
 ## Hi There!, I'm *Cyneptic*! :wave:
-### I'm a Game/Web Developer!
 ---
 
 
