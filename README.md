@@ -52,7 +52,7 @@ const Cyneptic = {
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cyneptic&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight&hide_title=true" width="550"> -->
 
-### Contact Me:
+Contact Me:
 ### [<img align="center" src="./img/Discord-Logo-Color.svg" width="52" height="40"> Cyneptic#8327](https://discordapp.com/users/329352402681593860/)
 
 
