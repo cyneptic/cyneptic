@@ -22,7 +22,7 @@ const Cyneptic = {
     "Summoning a demon",
     "Reading Books",
   },
-  Discord_Id: "Cyneptic#8327",
+  Discord_Id: "cyneptic",
 }
    
 ```
