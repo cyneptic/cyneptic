@@ -12,8 +12,7 @@
 ```
 const Cyneptic = {
   FirstName: "Alireza",
-  Age: 25,
-  Work_Experience: "3 Years",
+  Work_Experience: "4 Years",
   Email: "Cyneptic@gmail.com",
   Hobbies: {
     "Coding",
