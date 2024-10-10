@@ -43,7 +43,6 @@ const Cyneptic = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" height="50px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50px" height="50px"/>
 </p>
 <br />
 <br />
@@ -52,7 +51,7 @@ const Cyneptic = {
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cyneptic&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight&hide_title=true" width="550"> -->
 
-### [<img align="center" src="./img/Discord-Logo-Color.svg" width="52" height="40"> Cyneptic#8327](https://discordapp.com/users/329352402681593860/)
+### [<img align="center" src="./img/Discord-Logo-Color.svg" width="52" height="40"> Cyneptic](https://discordapp.com/users/329352402681593860/)
 
 
-[website]: https://cyneptic.herokuapp.com/
+[website]: https://cyneptic.com/
